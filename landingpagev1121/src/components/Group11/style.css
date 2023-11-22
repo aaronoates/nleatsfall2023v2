@@ -1,0 +1,136 @@
+.group {
+    position: relative;
+  }
+  
+  .group .overlap-group-wrapper {
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 528px;
+  }
+  
+  .group .overlap-group {
+    background-color: #619c4c;
+    border-radius: 10px;
+    height: 64px;
+    position: relative;
+    width: 526px;
+  }
+  
+  .group .text-wrapper {
+    color: #2d4e22;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 56px;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 56px;
+    position: absolute;
+    top: 8px;
+    width: 490px;
+  }
+  
+  .group .div {
+    background-color: #d9d9d9;
+    height: 30px;
+    left: 475px;
+    position: absolute;
+    top: 21px;
+    transform: rotate(-0.84deg);
+    width: 37px;
+  }
+  
+  .group .line {
+    height: 14px;
+    left: 7px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    transform: rotate(0.84deg);
+    width: 11px;
+  }
+  
+  .group .img {
+    height: 14px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+    transform: rotate(0.84deg);
+    width: 10px;
+  }
+  
+  .group .frame {
+    background-color: #ffffff;
+    height: 134px;
+    left: 15px;
+    position: absolute;
+    top: 76px;
+    width: 497px;
+  }
+  
+  .group .p {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 114px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 10px;
+    width: 474px;
+  }
+  
+  .group .div-wrapper {
+    height: 64px;
+    margin-right: -2px;
+    position: relative;
+    width: 528px;
+  }
+  
+  .group .div-2 {
+    background-color: #d9d9d9;
+    height: 30px;
+    left: 475px;
+    position: absolute;
+    top: 21px;
+    transform: rotate(178.83deg);
+    width: 37px;
+  }
+  
+  .group .line-2 {
+    height: 14px;
+    left: 7px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    transform: rotate(-178.83deg);
+    width: 11px;
+  }
+  
+  .group .line-3 {
+    height: 14px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 12px;
+    transform: rotate(-178.83deg);
+    width: 10px;
+  }
+  
+  .group.closed {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .group.opened {
+    height: 198px;
+    width: 526px;
+  }
+  

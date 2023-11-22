@@ -1,0 +1,119 @@
+.frame {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 7px;
+    position: relative;
+  }
+  
+  .frame .group {
+    height: 64px;
+    margin-right: -2px;
+    position: relative;
+    width: 528px;
+  }
+  
+  .frame .overlap-group {
+    background-color: #619c4c;
+    border-radius: 10px;
+    height: 64px;
+    position: relative;
+    width: 526px;
+  }
+  
+  .frame .text-wrapper {
+    color: #2d4e22;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 56px;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 56px;
+    position: absolute;
+    top: 8px;
+    width: 490px;
+  }
+  
+  .frame .div {
+    background-color: #d9d9d9;
+    height: 30px;
+    left: 475px;
+    position: absolute;
+    top: 21px;
+    width: 37px;
+  }
+  
+  .frame .line {
+    height: 14px;
+    left: 7px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 11px;
+  }
+  
+  .frame .img {
+    height: 15px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 10px;
+  }
+  
+  .frame .frame-wrapper {
+    height: 87px;
+    position: relative;
+    width: 520px;
+  }
+  
+  .frame .div-wrapper {
+    background-color: #ffffff;
+    height: 87px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .frame .p {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 112px;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 8px;
+    width: 510px;
+  }
+  
+  .frame.opened {
+    height: 163px;
+  }
+  
+  .frame.closed .div {
+    transform: rotate(-179.47deg);
+  }
+  
+  .frame.opened .div {
+    transform: rotate(0.67deg);
+  }
+  
+  .frame.closed .line {
+    transform: rotate(179.47deg);
+  }
+  
+  .frame.opened .line {
+    transform: rotate(-0.67deg);
+  }
+  
+  .frame.closed .img {
+    transform: rotate(179.47deg);
+  }
+  
+  .frame.opened .img {
+    transform: rotate(-0.67deg);
+  }
+  

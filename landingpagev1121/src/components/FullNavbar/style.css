@@ -1,0 +1,201 @@
+.full-navbar {
+    height: 747px;
+    position: relative;
+    width: 1440px;
+}
+
+.full-navbar .overlap {
+    height: 747px;
+    position: relative;
+}
+
+.full-navbar .rectangle {
+    background-color: #d9d9d9;
+    height: 47px;
+    left: 968px;
+    position: absolute;
+    top: 71px;
+    width: 90px;
+}
+
+.full-navbar .div {
+    background-color: #d9d9d9;
+    height: 50px;
+    left: 858px;
+    position: absolute;
+    top: 71px;
+    width: 80px;
+}
+
+.full-navbar .NAVBAR {
+    background-color: #619C4C;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #000000;
+    height: 747px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.full-navbar .join-the-hydroponics {
+    height: 292px;
+    left: 240px;
+    position: absolute;
+    top: 203px;
+    width: 407px;
+}
+
+.full-navbar .text-wrapper {
+    color: #ffffff;
+    font-family: "Roboto-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 40px;
+    letter-spacing: 0;
+    line-height: 56px;
+    position: absolute;
+    text-align: center;
+    top: 493px;
+    white-space: nowrap;
+    width: 873px;
+}
+
+.full-navbar .arrow {
+    height: 22px;
+    left: 709px;
+    position: absolute;
+    top: 645px;
+    width: 22px; 
+}
+
+.full-navbar .NAVBAR-2 {
+    height: 504px;
+    left: 219px;
+    position: absolute;
+    top: 61px;
+    width: 1077px;
+}
+
+.full-navbar .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Lexend-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 77px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 23px;
+}
+
+.full-navbar .overlap-group {
+    height: 38px;
+    left: 473px;
+    position: absolute;
+    top: 10px;
+    width: 598px;
+}
+
+.full-navbar .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Lexend-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 8px;
+    width: 179px;
+}
+
+.full-navbar .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Lexend-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 128px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    width: 150px;
+}
+
+.full-navbar .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Lexend-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 233px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 6px;
+    width: 179px;
+}
+
+.full-navbar .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 38px;
+    left: 345px;
+    position: absolute;
+    top: 0;
+    width: 253px;
+}
+
+.full-navbar .overlap-group-2 {
+    height: 38px;
+    position: relative;
+    width: 251px;
+}
+
+.full-navbar .rectangle-2 {
+    background-color: #e9af1a;
+    border-radius: 19px;
+    height: 38px;
+    left: 62px;
+    position: absolute;
+    top: 0;
+    width: 129px;
+}
+
+.full-navbar .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Lexend-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    width: 251px;
+
+}
+
+.full-navbar .nleats {
+    height: 75px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1px;
+    width: 77px;
+}
+
+.full-navbar .untitled-design {
+    height: 399px;
+    left: 639px;
+    object-fit: cover;
+    position: absolute;
+    top: 105px;
+    width: 358px;
+}
