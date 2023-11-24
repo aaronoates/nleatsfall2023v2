@@ -1,0 +1,177 @@
+.component {
+    width: 526px;
+  }
+  
+  .component .overlap {
+    height: 78px;
+    position: relative;
+  }
+  
+  .component .component-variant {
+    height: 78px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 526px;
+  }
+  
+  .component .frame-wrapper {
+    height: 38px;
+  }
+  
+  .component .frame {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    height: 14px;
+    position: relative;
+    width: 526px;
+  }
+  
+  .component .group {
+    height: 64px;
+    margin-bottom: -49.83px;
+    margin-right: -2px;
+    position: relative;
+    width: 528px;
+  }
+  
+  .component .overlap-group {
+    background-color: #619c4c;
+    border-radius: 10px;
+    height: 64px;
+    position: relative;
+    width: 526px;
+  }
+  
+  .component .will-nleats-provide {
+    color: #2d4e22;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 56px;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 56px;
+    position: absolute;
+    top: 8px;
+    width: 490px;
+  }
+  
+  .component .rectangle {
+    background-color: #d9d9d9;
+    height: 35px;
+    left: 475px;
+    position: absolute;
+    top: 18px;
+    width: 37px;
+  }
+  
+  .component .line {
+    height: 15px;
+    left: 485px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 9px;
+  }
+  
+  .component .img {
+    height: 14px;
+    left: 493px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 11px;
+  }
+  
+  .component .div {
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 526px;
+  }
+  
+  .component .overlap-2 {
+    height: 52px;
+    position: relative;
+  }
+  
+  .component .div-wrapper {
+    height: 37px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 526px;
+  }
+  
+  .component .overlap-group-wrapper {
+    height: 64px;
+    margin-bottom: -50.32px;
+    margin-right: -2px;
+    position: relative;
+    width: 528px;
+  }
+  
+  .component .group-2 {
+    background-color: #d9d9d9;
+    height: 30px;
+    left: 475px;
+    position: absolute;
+    top: 22px;
+    transform: rotate(-179.47deg);
+    width: 37px;
+  }
+  
+  .component .line-2 {
+    height: 13px;
+    left: 483px;
+    object-fit: cover;
+    position: absolute;
+    top: 30px;
+    width: 11px;
+  }
+  
+  .component .line-3 {
+    height: 13px;
+    left: 493px;
+    object-fit: cover;
+    position: absolute;
+    top: 29px;
+    width: 11px;
+  }
+  
+  .component .frame-2 {
+    background-color: #ffffff;
+    height: 92px;
+    left: 0;
+    position: absolute;
+    top: 75px;
+    width: 526px;
+  }
+  
+  .component .text-wrapper {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 92px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: -1px;
+    width: 526px;
+  }
+  
+  .component.default {
+    height: 173px;
+  }
+  
+  .component.variant-2 {
+    height: 167px;
+    position: relative;
+  }
+  
