@@ -4,20 +4,21 @@ import { Component1 } from "./components/Component1";
 import { Component5 } from "./components/Component5";
 import { Component6 } from "./components/Component6";
 import { ComponentVariant } from "./components/ComponentVariant";
-import { Frame } from "./components/Frame";
+import { Frame88 } from "./components/Frame88";
 import { FullNavbar } from "./components/FullNavbar";
 import { Group11 } from "./components/Group11";
 import { PropertyDefault } from "./components/PropertyDefault";
 import { PropertyDefaultWrapper } from "./components/PropertyDefaultWrapper";
 import { PropertyOpenedWrapper } from "./components/PropertyOpenedWrapper";
 import "./style.css";
+import { Frame103 } from "./components/Frame103/";
 
 export const App = () => {
   return (
     <div className="FULL-NAVBAR-design">
       <div className="overlap-wrapper-2">
         <div className="overlap-11">
-          <Frame className="frame-88" />
+          <Frame88 className="frame-88" />
           <div className="frame-13">
             <FullNavbar />
             <div className="why-nleats-section">
@@ -214,38 +215,7 @@ export const App = () => {
                   property1="closed"
                 />
               </div>
-              <div className="frame-34">
-                <div className="text-wrapper-39">Featured Articles</div>
-                <p className="text-wrapper-40">Guides and videos to help you get started on your own.</p>
-                <div className="frame-35" />
-                <div className="rectangle-13" />
-                <div className="rectangle-13" />
-                <div className="rectangle-14" />
-                <a
-                  className="text-wrapper-41"
-                  href="https://foodrevolution.org/blog/hydroponics/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  How it works
-                </a>
-                <a
-                  className="text-wrapper-42"
-                  href="https://sitn.hms.harvard.edu/flash/2019/hydroponics-the-power-of-water-to-grow-food/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  Why we need it
-                </a>
-                <a
-                  className="text-wrapper-43"
-                  href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5091364/"
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  More information
-                </a>
-              </div>
+             <Frame103 />
             </div>
             <div className="NAVBAR-3" />
             <img className="frame-36" alt="Frame" src="frame-83.svg" />
