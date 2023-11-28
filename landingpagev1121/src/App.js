@@ -1,17 +1,17 @@
 import React from "react";
-import { Component } from "./components/Component";
-import { Component1 } from "./components/Component1";
-import { Component5 } from "./components/Component5";
-import { Component6 } from "./components/Component6";
-import { ComponentVariant } from "./components/ComponentVariant";
-import { Frame88 } from "./components/Frame88";
-import { FullNavbar } from "./components/FullNavbar";
-import { Group11 } from "./components/Group11";
-import { PropertyDefault } from "./components/PropertyDefault";
+import { Component } from "./components/Component/Component.jsx";
+import { Component1 } from "./components/Component1/Component1.jsx";
+import { Component5 } from "./components/Component5/Component5.jsx";
+import { Component6 } from "./components/Component6/Component6.jsx";
+import { ComponentVariant } from "./components/ComponentVariant/ComponentVariant.jsx";
+import { Frame88 } from "./components/Frame88/Frame88.jsx";
+import { FullNavbar } from "./components/FullNavbar/FullNavbar.jsx";
+import { Group11 } from "./components/Group11/Group11.jsx";
+import { PropertyDefault } from "./components/PropertyDefault/PropertyDefault.jsx";
 import { PropertyDefaultWrapper } from "./components/PropertyDefaultWrapper";
 import { PropertyOpenedWrapper } from "./components/PropertyOpenedWrapper";
 import "./style.css";
-import { Frame103 } from "./components/Frame103/";
+import { Frame103 } from "./components/Frame103/Frame103.jsx";
 
 export const App = () => {
   return (

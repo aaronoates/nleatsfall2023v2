@@ -3,7 +3,7 @@ import React from "react";
 import { useReducer } from "react";
 import "./style.css";
 
-export const Component = ({ property1, className }) => {
+export const Component6 = ({ property1, className }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "default",
   });
@@ -92,6 +92,6 @@ function reducer(state, action) {
   return state;
 }
 
-Component.propTypes = {
+Component6.propTypes = {
   property1: PropTypes.oneOf(["variant-2", "default"]),
 };

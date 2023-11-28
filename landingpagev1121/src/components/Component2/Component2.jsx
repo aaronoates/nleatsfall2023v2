@@ -1,10 +1,10 @@
 import PropTypes from "prop-types";
 import React from "react";
 import { useReducer } from "react";
-import { Frame } from "./Frame";
+import { Frame96 } from "../Frame96/Frame96";
 import "./style.css";
 
-export const Component = ({ property1, className }) => {
+export const Component2 = ({ property1, className }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "default",
   });
@@ -46,7 +46,7 @@ export const Component = ({ property1, className }) => {
       )}
 
       {state.property1 === "variant-2" && (
-        <Frame
+        <Frame96
           className="frame-11"
           groupClassName="frame-instance"
           img="line-2-3.svg"
@@ -81,6 +81,6 @@ function reducer(state, action) {
   return state;
 }
 
-Component.propTypes = {
+Component2.propTypes = {
   property1: PropTypes.oneOf(["variant-2", "default"]),
 };

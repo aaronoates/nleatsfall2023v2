@@ -3,7 +3,7 @@ import React from "react";
 import { useReducer } from "react";
 import "./style.css";
 
-export const Group = ({ property1, className }) => {
+export const Group11 = ({ property1, className }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "opened",
   });
@@ -73,6 +73,6 @@ function reducer(state, action) {
   return state;
 }
 
-Group.propTypes = {
+Group11.propTypes = {
   property1: PropTypes.oneOf(["closed", "opened"]),
 };

@@ -1,0 +1,33 @@
+.frame {
+    background-color: #ffffff;
+    height: 102px;
+    position: relative;
+    width: 526px;
+}
+
+.frame .information {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    height: 102px;
+    left: 11px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: -1px;
+    width: 503px;
+}
+
+.frame .text-wrapper {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.frame .span {
+    text-decoration: underline;
+}
