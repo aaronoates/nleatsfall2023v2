@@ -1,0 +1,49 @@
+.property-default {
+    background-color: #262626;
+    border-radius: 18px;
+    height: 58px;
+    overflow: hidden;
+    position: relative;
+    width: 500px;
+  }
+  
+  .property-default .text-wrapper {
+    color: #ffffff;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 12px;
+    letter-spacing: 1.36px;
+    line-height: 62px;
+    position: absolute;
+    text-align: center;
+    top: -3px;
+    white-space: nowrap;
+  }
+  
+  .property-default .frame {
+    background-color: #ffffff;
+    border-radius: 14px;
+    height: 44px;
+    left: 360px;
+    overflow: hidden;
+    position: absolute;
+    top: 7px;
+    width: 128px;
+  }
+  
+  .property-default .div {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 62px;
+    left: 22px;
+    letter-spacing: 0.45px;
+    line-height: 62px;
+    position: absolute;
+    text-align: center;
+    top: -10px;
+    width: 85px;
+  }
+  

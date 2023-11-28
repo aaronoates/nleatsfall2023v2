@@ -1,0 +1,12 @@
+.frame {
+    box-shadow: 0px 4px 4px #00000040;
+    height: 66px;
+    width: 117px;
+}
+
+.frame .group {
+    height: 30px;
+    position: relative;
+    top: 13px;
+    width: 113px;
+}
