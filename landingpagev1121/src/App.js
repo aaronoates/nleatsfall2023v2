@@ -1,5 +1,5 @@
 import React from "react";
-import { Component } from "./components/Component/Component.jsx";
+//import { Component } from "./components/Component/Component.jsx";
 import { Component1 } from "./components/Component1/Component1.jsx";
 import { Component5 } from "./components/Component5/Component5.jsx";
 import { Component6 } from "./components/Component6/Component6.jsx";
@@ -163,7 +163,7 @@ export const App = () => {
               <div className="frame-33">
                 <div className="text-wrapper-37">FAQ</div>
                 <p className="text-wrapper-38">Answers to some questions you might have.</p>
-                <Component
+                <Component4
                   className="component-instance"
                   property1="variant-2"
                   propertyOpenedWrapperImg="line-2-13.svg"
