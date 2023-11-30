@@ -9,7 +9,7 @@ import { FullNavbar } from "./components/FullNavbar/FullNavbar.jsx";
 import { Group11 } from "./components/Group11/Group11.jsx";
 import { PropertyDefault } from "./components/PropertyDefault/PropertyDefault.jsx";
 import { Component4 } from "./components/Component4/Component4.jsx";
-import { PropertyOpenedWrapper } from "./components/PropertyOpenedWrapper";
+import { PropertyOpenedWrapper } from "./components/PropertyOpenedWrapper/PropertyOpenedWrapper.jsx";
 import "./style.css";
 import { Frame103 } from "./components/Frame103/Frame103.jsx";
 
