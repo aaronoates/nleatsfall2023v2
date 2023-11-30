@@ -10,16 +10,16 @@ export const Component6 = ({ property1, className }) => {
 
   return (
     <div
-      className={`component ${state.property1} ${className}`}
+      className={`component-5 property-1-${state.property1} ${className}`}
       onClick={() => {
         dispatch("click");
       }}
     >
       {state.property1 === "default" && (
         <>
-          <div className="div">
-            <div className="div">
-              <div className="overlap">
+          <div className="div-2">
+            <div className="div-2">
+              <div className="overlap-2">
                 <div className="frame-wrapper">
                   <div className="frame">
                     <div className="group">

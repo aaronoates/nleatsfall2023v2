@@ -8,7 +8,7 @@ import { Frame88 } from "./components/Frame88/Frame88.jsx";
 import { FullNavbar } from "./components/FullNavbar/FullNavbar.jsx";
 import { Group11 } from "./components/Group11/Group11.jsx";
 import { PropertyDefault } from "./components/PropertyDefault/PropertyDefault.jsx";
-import { PropertyDefaultWrapper } from "./components/PropertyDefaultWrapper";
+import { Component4 } from "./components/Component4/Component4.jsx";
 import { PropertyOpenedWrapper } from "./components/PropertyOpenedWrapper";
 import "./style.css";
 import { Frame103 } from "./components/Frame103/Frame103.jsx";
@@ -169,7 +169,7 @@ export const App = () => {
                   propertyOpenedWrapperImg="line-2-13.svg"
                   propertyOpenedWrapperLine="line-1-12.svg"
                 />
-                <PropertyDefaultWrapper
+                <Component4
                   className="design-component-instance-node"
                   img="line-2-10.svg"
                   line="line-1-9.svg"
