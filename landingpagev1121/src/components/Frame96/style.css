@@ -1,11 +1,11 @@
-.frame {
+.Frame96 {
     background-color: #ffffff;
     height: 102px;
     position: relative;
     width: 526px;
 }
 
-.frame .information {
+.Frame96 .information {
     color: #000000;
     font-family: "Lexend-Bold", Helvetica;
     font-size: 15px;
@@ -19,7 +19,7 @@
     width: 503px;
 }
 
-.frame .text-wrapper {
+.Frame96 .text-wrapper {
     color: #000000;
     font-family: "Lexend-Bold", Helvetica;
     font-size: 15px;
@@ -28,6 +28,6 @@
     line-height: 20px;
 }
 
-.frame .span {
+.Frame96 .span {
     text-decoration: underline;
 }
