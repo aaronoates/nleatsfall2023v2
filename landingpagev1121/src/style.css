@@ -14,7 +14,6 @@
     display: inline-flex;
     flex: 0 0 auto;
     flex-direction: column;
-    background-color: #2d4e22;
     gap: 78px;
     position: relative;
   }
