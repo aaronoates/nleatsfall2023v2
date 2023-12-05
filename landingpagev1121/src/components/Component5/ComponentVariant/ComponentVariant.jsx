@@ -1,12 +1,12 @@
 import React from "react";
-import {Component4} from "../Component4/Component4";
+import {Component} from "./Component";
 import "./style.css";
 
 export const ComponentVariant = () => {
     return (
         <div className="component-variant">
             <div className="overlap-2">
-                <Component4
+                <Component
                 className="component-2"
                 frameGroupClassName="component-instance"
                 frameImg="line-2-4.svg"

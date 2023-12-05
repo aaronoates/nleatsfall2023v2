@@ -16,14 +16,18 @@
     top: 0 !important;
 }
 
-.component-variant .component-instance {
+.component-variant .component-2 {
     margin-bottom: -50.32px !important;
 }
 
-.component-variant .component-2-instance {
+.component-variant .component-instance {
     display: flex !important;
     height: 14px !important;
     width: 526px !important;
+}
+
+.component-variant .component-2-instance {
+    margin-bottom: -50.32px !important;
 }
 
 .component-variant .group-3 {
