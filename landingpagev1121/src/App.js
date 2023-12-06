@@ -1,9 +1,9 @@
 import React from "react";
 import { Component } from "./components/Component/Component.jsx";
 import { Component1 } from "./components/Component1/Component1.jsx";
-import { Component5 } from "./components/Component5/Component5.jsx";
+import { Component5 } from "./components/PropertyDefaultWrapper/PropertyDefaultWrapper.jsx";
 import { Component6 } from "./components/Component6/Component6.jsx";
-import { ComponentVariant } from "./components/Component5/ComponentVariant/ComponentVariant.jsx";
+import { ComponentVariant } from "./components/PropertyDefaultWrapper/ComponentVariant/ComponentVariant.jsx";
 import { Frame } from "./components/Frame/Frame.jsx";
 import { FrameWrapper } from "./FrameWrapper";
 import { FullNavbar } from "./components/FullNavbar/FullNavbar.jsx";

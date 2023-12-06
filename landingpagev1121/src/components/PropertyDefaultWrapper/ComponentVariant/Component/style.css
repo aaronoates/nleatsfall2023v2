@@ -1,0 +1,88 @@
+.component {
+    width: 526px;
+}
+
+.component .overlap {
+    height: 64px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 526px;
+}
+
+.component .frame-11 {
+    display: flex !important;
+    height: 64px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 526px !important;
+}
+
+.component .rectangle {
+    background-color: #d9d9d9;
+    height: 27px;
+    left: 476px;
+    position: absolute;
+    top: 23px;
+    width: 36px;
+}
+
+.component .line-4 {
+    height: 16px;
+    left: 483px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 12px;
+}
+
+.component .line-5 {
+    height: 15px;
+    left: 494px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 11px;
+}
+
+.component .information-wrapper {
+    background-color: #ffffff;
+    height: 102px;
+    left: 0;
+    position: absolute;
+    top: 70px;
+    width: 526px;
+}
+
+.component .information {
+    color: #000000;
+    font-family: "Lexend-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.component .text-wrapper-2 {
+    text-decoration: underline;
+}
+
+.component .frame-instance {
+    display: flex !important;
+    height: 28px !important;
+    width: 526px !important;
+}
+
+.component .frame-11-instance {
+    margin-bottom: -36.09px !important;
+}
+
+.component .default {
+    height: 172px;
+    position: relative;
+}
+
+.component-variant-2 {
+    height: 75px;
+}

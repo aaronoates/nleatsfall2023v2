@@ -1,0 +1,193 @@
+.property-default-wrapper {
+  width: 526px;
+}
+
+.property-default-wrapper .overlap-2 {
+  height: 78px;
+  position: relative;
+}
+
+.property-default-wrapper .component-variant {
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 526px;
+}
+
+.property-default-wrapper .overlap-3 {
+  height: 54px;
+  position: relative;
+}
+
+.property-default-wrapper .component-2 {
+  height: 38px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .component-instance {
+  margin-bottom: -49.83px !important;
+}
+
+.property-default-wrapper .component-2-instance {
+  display: flex !important;
+  height: 14px !important;
+  width: 526px !important;
+}
+
+.property-default-wrapper .overlap-wrapper {
+  height: 31px;
+  left: 475px;
+  position: absolute;
+  top: 23px;
+  transform: rotate(-179.45deg);
+  width: 37px;
+}
+
+.property-default-wrapper .overlap-4 {
+  height: 31px;
+  position: relative;
+}
+
+.property-default-wrapper .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(0.02deg);
+  width: 37px;
+}
+
+.property-default-wrapper .line-6 {
+  height: 14px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  transform: rotate(179.45deg);
+  width: 11px;
+}
+
+.property-default-wrapper .line-7 {
+  height: 15px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  transform: rotate(179.45deg);
+  width: 10px;
+}
+
+.property-default-wrapper .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 35px;
+  left: 475px;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.property-default-wrapper .line-8 {
+  height: 15px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 9px;
+}
+
+.property-default-wrapper .line-9 {
+  height: 14px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 11px;
+}
+
+.property-default-wrapper .div-2 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 526px;
+}
+
+.property-default-wrapper .overlap-5 {
+  height: 52px;
+  position: relative;
+}
+
+.property-default-wrapper .instance-node {
+  height: 37px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.property-default-wrapper .component-3 {
+  margin-bottom: -50.32px !important;
+}
+
+.property-default-wrapper .group-3 {
+  background-color: #d9d9d9;
+  height: 30px;
+  left: 475px;
+  position: absolute;
+  top: 22px;
+  transform: rotate(-179.47deg);
+  width: 37px;
+}
+
+.property-default-wrapper .line-10 {
+  height: 13px;
+  left: 483px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 11px;
+}
+
+.property-default-wrapper .line-11 {
+  height: 13px;
+  left: 493px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 11px;
+}
+
+.property-default-wrapper .frame-2 {
+  background-color: #ffffff;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 526px;
+}
+
+.property-default-wrapper .p {
+  color: #000000;
+  font-family: "Lexend-Bold", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  height: 92px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  width: 526px;
+}
+
+.property-default-wrapper .property-1-default {
+  height: 173px;
+}
+
+.property-default-wrapper .property-1-variant-2 {
+  height: 167px;
+  position: relative;
+}
