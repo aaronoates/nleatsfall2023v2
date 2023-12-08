@@ -1,5 +1,5 @@
 import React from "react";
-import {Component} from "./Component";
+import {Component} from "./Component/Component.jsx";
 import "./style.css";
 
 export const ComponentVariant = () => {
